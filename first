@@ -1,9 +1,0 @@
-#! /usr/bin/env bash
-
-cd /home/sebastiangozner/1
-git init
-git add .
-git commit -m "Initial commit"
-git remote add origin https://github.com/GoznerSebastian2000/first.git
-git push -u origin master
-
